@@ -15,26 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
-<a 
-href="www.linkedin.com/in/imam-alfarizi" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Imam Alfarizi's Linkedin" height="30" width="40" />
-</a>
-
-<a 
-href="https://web.facebook.com/imam.alfarizi.754" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Imam Alfarizi's Facebook" height="30" width="40" />
-</a>
-
-<a 
-href="https://instagram.com/mamlzy" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Imam Alfarizi's Instagram" height="30" width="40" />
-</a>
-
-<a 
-href="https://www.youtube.com/channel/UCaK4PDmD2RJhNuHkr1ZNSMw" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Imam Alfarizi's Youtube" height="30" width="40" />
-</a>
+<a href="www.linkedin.com/in/imam-alfarizi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Imam Alfarizi's Linkedin" height="30" width="40" /></a>
+<a href="https://web.facebook.com/imam.alfarizi.754" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Imam Alfarizi's Facebook" height="30" width="40" /></a>
+<a href="https://instagram.com/mamlzy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Imam Alfarizi's Instagram" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCaK4PDmD2RJhNuHkr1ZNSMw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Imam Alfarizi's Youtube" height="30" width="40" /></a>
 </p>
 
 ---
