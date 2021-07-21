@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Imam Alfarizi Syahputra</h1>
 <h3 align="center">A passionate web developer</h3>
 
-- 🔭 I just graduated from Taruna Bhakti Vocational High School! 😇
-- 🌱 I’m currently learning everything 😋
-- 👯 I’m currently looking for a job 😎
+- 🔭 I just graduated from Taruna Bhakti Vocational High School!
+- 🌱 I’m currently learning everything
+- 👯 I’m currently looking for a job
 - 🥅 2021 Goals: Have a job 🤣
 - 📫 How to reach me **imam.alfarizi.777@gmail.com**
-- ⚡ Fun fact: I love starring stars at night 😅
+- ⚡ Fun fact: I love starring stars at night
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=imamalfarizisyahputra&label=Profile%20views&color=0e75b6&style=flat" alt="imamalfarizisyahputra" /> </p>
