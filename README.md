@@ -49,13 +49,13 @@
     /> 
 </a> 
 <a 
-    href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-</a> 
-<a 
     href="https://www.postgresql.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"
     /> 
+</a>
+<a 
+    href="https://git-scm.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </a> 
 <a 
     href="https://laravel.com/" target="_blank"> 
@@ -103,9 +103,14 @@
 </a> 
 <a 
     href="https://tailwindcss.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"
     /> 
-</a> 
+</a>
+<a 
+    href="https://mui.com/" target="_blank"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="Material UI" width="40" height="40"
+    /> 
+</a>
 </p>
 
 [youtube]: https://www.youtube.com/channel/UCaK4PDmD2RJhNuHkr1ZNSMw
