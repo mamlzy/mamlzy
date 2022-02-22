@@ -61,7 +61,16 @@
     href="https://laravel.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"
     /> 
-</a> 
+</a>
+<a 
+    href="https://nextjs.org/" target="_blank"> 
+    <img src="https://qph.fs.quoracdn.net/main-qimg-744f96b18fb3ef81b05512d78b679e25" alt="next.js" width="40" height="40" /> 
+</a>
+<a 
+    href="https://reactjs.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"
+    /> 
+</a>
 <a 
     href="https://vuejs.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"
@@ -75,11 +84,6 @@
 <a 
     href="https://expressjs.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"
-    /> 
-</a> 
-<a 
-    href="https://reactjs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"
     /> 
 </a> 
 <a 
