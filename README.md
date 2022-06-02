@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Imam Alfarizi Syahputra</h1>
 <h3 align="center">A passionate web dev</h3>
 
-- 🔭 I've just graduated from Taruna Bhakti Vocational High School
+- 🔭 I'd just graduated from Taruna Bhakti Vocational High School
 - 🌱 I’m currently learning Javascript & PHP
 - 📫 How to reach me **imam.alfarizi.777@gmail.com**
 - ⚡ Fun fact: I love starring stars at night
