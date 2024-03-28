@@ -13,10 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com/in/mamlzy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Imam Alfarizi's Linkedin" height="30" width="40" /></a>
-<a href="facebook.com/mamlzy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Imam Alfarizi's Facebook" height="30" width="40" /></a>
-<a href="instagram.com/mamlzy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Imam Alfarizi's Instagram" height="30" width="40" /></a>
-<a href="youtube.com/@mamlzy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Imam Alfarizi's Youtube" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mamlzy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Imam Alfarizi's Linkedin" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mamlzy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Imam Alfarizi's Facebook" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mamlzy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Imam Alfarizi's Instagram" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@mamlzy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Imam Alfarizi's Youtube" height="30" width="40" /></a>
 </p>
 
 ---
@@ -113,6 +113,6 @@
 </a>
 </p>
 
-[youtube]: youtube.com/@mamlzy
-[instagram]: instagram.com/mamlzy
-[linkedin]: linkedin.com/in/mamlzy
+[youtube]: https://www.youtube.com/@mamlzy
+[instagram]: https://www.instagram.com/mamlzy
+[linkedin]: https://www.linkedin.com/in/mamlzy
